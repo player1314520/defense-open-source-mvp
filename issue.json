@@ -1,34 +1,66 @@
 {
   "edition_date": "2026-08-14",
-  "edition": "001",
-  "title": "2026-08-14 防务开源观察",
-  "author": "",
-  "digest": "三项公开动作分别涉及海上协同、传感器工业合作与可部署医疗保障；逐项保留单源限制，并将分析明确标为推断。",
-  "content_html": "<h2>海上协同：澳舰支援美航母打击群</h2><p>澳大利亚国防部 2026 年 8 月 14 日称，HMAS Perth 在南海航行期间支援 USS George Washington 航母打击群。</p><p><strong>证据限制：</strong>目前仅采用澳方官方单源，尚未获得独立来源核验，不据此延伸判断行动细节。</p><h2>传感器工业：澳英深化 CEA AESA 雷达合作</h2><p>澳大利亚国防部 2026 年 8 月 13 日称，澳英签署联合声明，寻求深化 CEA Technologies 有源电子扫描阵列雷达合作。英国政府 2026 年 6 月 AUKMIN 联合声明可交叉支持双方推进防务工业与能力合作这一方向。</p><p><strong>证据限制：</strong>两份材料支持合作方向；具体项目范围、交付节奏与成果仍以未来公开文件为准。</p><h2>保障体系：升级可部署医疗能力</h2><p>澳大利亚国防部 2026 年 8 月 8 日宣布投入 4.21 亿澳元升级可部署医疗能力，其中包括三所野战医院。</p><p><strong>证据限制：</strong>目前仅采用澳方官方单源；预算执行、部署效果与实际形成能力尚待后续公开证据。</p><h2>推断</h2><p>近日公开动作同时覆盖海上协同、传感器工业合作和保障体系，说明能力建设并非只看武器平台。</p><p><strong>解释限制：</strong>这一归纳只描述公开动作覆盖的维度，不能据此推断战备水平或具体意图。</p>",
+  "edition": "daily",
+  "delivery": "mass",
+  "title": "防务开源观察｜印太协同与保障",
+  "author": "防务开源信息研究",
+  "digest": "梳理近期五项印太公开活动，区分已核事实、推断与未知，不把演训和合作直接等同实战能力。",
+  "content_source_url": "https://player1314520.github.io/defense-open-source-mvp/",
+  "content_html": "<h2>本期范围</h2><p>本期发布时间为2026年8月14日，所涉活动和发布材料跨越2026年6月24日至8月13日，均按原始日期表述，不将近期材料写成8月14日当日发生。</p><h2>已核事实</h2><h3>一、水下无人系统联试</h3><p>澳大利亚国防部8月13日介绍，澳美人员在7月环太平洋2026演习的水下活动中，围绕关键海底基础设施保护测试自主潜航器、作业级遥控潜器、无人艇和水声中继设备。美国印太司令部7月3日材料可支持该演习包含先进无人水下系统和水下域训练这一较宽背景，但澳方列出的具体装备联试细节仍主要是单一官方来源［1］［2］。</p><h3>二、东南亚海上协同训练</h3><p>美国海军8月4日称，第25次东南亚合作与训练演习在新加坡启动，参加方围绕模拟船只的实时跟踪、拦截和传感器信息共享开展岸海衔接训练。公开稿说明了训练设计，未提供各方实际完成效果或统一指挥关系［3］。</p><h3>三、环太平洋演习海上补给</h3><p>美国海军8月6日总结称，军运司令部所属保障力量在6月24日至7月31日的环太平洋2026演习中实施76次海上补给，并组织任务编组值更和军民船舶联络。该数据只能说明演习期保障活动，不能直接等同实战持续保障水平［4］。</p><h3>四、印度尼西亚灾援协作</h3><p>美国海军8月3日称，太平洋伙伴2026在印度尼西亚锡博尔加及中塔帕努利的任务点于7月30日闭幕，活动涉及人道援助、灾害管理、医疗和工程协作。澳大利亚国防部7月21日材料可支持澳方平台和多国专业人员参与，但两份材料描述的任务点闭幕日和人员活动期范围不同［5］［6］。</p><h3>五、日菲美海上合作活动</h3><p>美国海军7月27日称，日菲美力量于7月21日至25日举行多边海上合作活动；日本统合幕僚监部和菲律宾政府通讯社可交叉支持三方参演、日期及部分补给科目。反潜、海域感知和精确海域表述的完整组合仍主要来自美方，公开材料没有披露探测数据、指挥关系或演练评估［7］［8］［9］。</p><h2>推断</h2><p>上述公开活动覆盖水下探测、目标信息交换、远海补给、灾害援助和多边海上训练，显示相关伙伴正在多个任务接口上持续磨合。这只是对公开活动覆盖面的归纳，不能据此推断已形成实战能力、成熟联合指挥体系或共同作战意图。</p><h2>未知</h2><p>公开页面不足以确认传感器性能、通信稳定性、真实指挥链、训练评估、装备战备率和危机条件下的保障效果。后续如出现正式评估、预算执行或独立现场材料，应重新核验。</p><h2>诚实边界</h2><p>一、本期主要使用政府和军方公开叙事，没有独立现场核验。二、不同官方页面对环太平洋2026参演规模表述不一致，本期不引用参演国数和总人数。三、澳美水下联试的具体装备细节仍以澳方单源为主，美方材料只支持较宽的演习背景。四、演习科目和合作安排不能证明训练效果、战备水平或成熟联合指挥能力。五、公众号草稿入库不等于公开发布、群发成功或读者送达。</p><h2>来源索引</h2><ol><li><a href=\"https://www.defence.gov.au/news-events/news/2026-08-13/advancing-high-tech-undersea-warfare-capabilities\">澳大利亚国防部：水下作战能力联试</a></li><li><a href=\"https://www.pacom.mil/Media/News/News-Articles/Article/4535738/rimpac-26-pacific-submarine-force-efforts-to-preserve-undersea-domain-advantage/\">美国印太司令部：环太平洋2026水下域活动</a></li><li><a href=\"https://www.navy.mil/Press-Office/News-Stories/display-news/Article/4563391/sixteen-indo-pacific-maritime-forces-commence-25th-seacat-exercise/\">美国海军：第25次SEACAT演习启动</a></li><li><a href=\"https://www.navy.mil/Press-Office/News-Stories/display-news/Article/4565442/msc-ships-complete-logistics-support-during-rimpac-2026/\">美国海军：环太平洋2026后勤支援</a></li><li><a href=\"https://www.navy.mil/Press-Office/News-Stories/display-news/Article/4562390/pacific-partnership-2026-concludes-second-mission-stop-in-sibolga-indonesia/\">美国海军：太平洋伙伴2026锡博尔加任务点</a></li><li><a href=\"https://www.defence.gov.au/news-events/releases/2026-07-21/hmas-choules-arrives-indonesia-exercise-pacific-partnership-26\">澳大利亚国防部：HMAS Choules参加太平洋伙伴2026</a></li><li><a href=\"https://www.navy.mil/Press-Office/News-Stories/display-news/Article/4555970/japan-philippine-us-forces-conduct-multilateral-maritime-cooperative-activity/\">美国海军：日菲美多边海上合作活动</a></li><li><a href=\"https://www.mod.go.jp/js/pdf/2026/p20260725_02e.pdf\">日本统合幕僚监部：日美菲多边演习</a></li><li><a href=\"https://www.pna.gov.ph/index.php/articles/1280315\">菲律宾政府通讯社：菲美日完成海上活动</a></li></ol>",
   "source_urls": [
     {
-      "title": "HMAS Perth support to USS George Washington",
+      "title": "Advancing high-tech undersea warfare capabilities",
       "publisher": "Australian Government Department of Defence",
-      "url": "https://www.defence.gov.au/news-events/releases/2026-08-14/hmas-perth-support-uss-george-washington",
-      "published_at": "2026-08-14"
-    },
-    {
-      "title": "Australia and United Kingdom seek to deepen defence industry cooperation",
-      "publisher": "Australian Government Department of Defence",
-      "url": "https://www.defence.gov.au/news-events/releases/2026-08-13/australia-united-kingdom-seek-deepen-defence-industry-cooperation",
+      "url": "https://www.defence.gov.au/news-events/news/2026-08-13/advancing-high-tech-undersea-warfare-capabilities",
       "published_at": "2026-08-13"
     },
     {
-      "title": "Australia-UK Ministerial Consultations: Joint Statement, June 2026",
-      "publisher": "Government of the United Kingdom",
-      "url": "https://www.gov.uk/government/publications/australia-uk-ministerial-consultations-joint-statement-june-2026/australia-uk-ministerial-consultations-joint-statement-june-2026",
-      "published_at": "2026-06"
+      "title": "RIMPAC 26: Pacific Submarine Force Efforts to Preserve Undersea Domain Advantage",
+      "publisher": "U.S. Indo-Pacific Command",
+      "url": "https://www.pacom.mil/Media/News/News-Articles/Article/4535738/rimpac-26-pacific-submarine-force-efforts-to-preserve-undersea-domain-advantage/",
+      "published_at": "2026-07-03"
     },
     {
-      "title": "Australian Government revolutionises life-saving deployable health care for the Australian Defence Force",
+      "title": "Sixteen Indo-Pacific Maritime Forces Commence 25th SEACAT Exercise",
+      "publisher": "U.S. Navy",
+      "url": "https://www.navy.mil/Press-Office/News-Stories/display-news/Article/4563391/sixteen-indo-pacific-maritime-forces-commence-25th-seacat-exercise/",
+      "published_at": "2026-08-04"
+    },
+    {
+      "title": "MSC Ships Complete Logistics Support During RIMPAC 2026",
+      "publisher": "U.S. Navy",
+      "url": "https://www.navy.mil/Press-Office/News-Stories/display-news/Article/4565442/msc-ships-complete-logistics-support-during-rimpac-2026/",
+      "published_at": "2026-08-06"
+    },
+    {
+      "title": "Pacific Partnership 2026 Concludes Second Mission Stop in Sibolga, Indonesia",
+      "publisher": "U.S. Navy",
+      "url": "https://www.navy.mil/Press-Office/News-Stories/display-news/Article/4562390/pacific-partnership-2026-concludes-second-mission-stop-in-sibolga-indonesia/",
+      "published_at": "2026-08-03"
+    },
+    {
+      "title": "HMAS Choules arrives in Indonesia for Exercise Pacific Partnership 26",
       "publisher": "Australian Government Department of Defence",
-      "url": "https://www.defence.gov.au/news-events/releases/2026-08-08/australian-government-revolutionises-life-saving-deployable-health-care-australian-defence-force",
-      "published_at": "2026-08-08"
+      "url": "https://www.defence.gov.au/news-events/releases/2026-07-21/hmas-choules-arrives-indonesia-exercise-pacific-partnership-26",
+      "published_at": "2026-07-21"
+    },
+    {
+      "title": "Japan, Philippine, U.S. forces conduct Multilateral Maritime Cooperative Activity",
+      "publisher": "U.S. Navy",
+      "url": "https://www.navy.mil/Press-Office/News-Stories/display-news/Article/4555970/japan-philippine-us-forces-conduct-multilateral-maritime-cooperative-activity/",
+      "published_at": "2026-07-27"
+    },
+    {
+      "title": "Japan-U.S.-Philippines Multilateral Exercise",
+      "publisher": "Japan Joint Staff",
+      "url": "https://www.mod.go.jp/js/pdf/2026/p20260725_02e.pdf",
+      "published_at": "2026-07-25"
+    },
+    {
+      "title": "PH, US, Japan finish another drill amid renewed WPS tensions",
+      "publisher": "Philippine News Agency",
+      "url": "https://www.pna.gov.ph/index.php/articles/1280315",
+      "published_at": "2026-07-26"
     }
   ],
   "state": "review_pending"
